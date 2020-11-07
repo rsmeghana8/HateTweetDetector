@@ -10,4 +10,4 @@ In addition to this, in order to add variety to the training data for making it 
 To run the app in streamlit 
 ``` streamlit run App.py```
 
-![](screenshot.jpg=640x480)
+<img src="screenshot.jpg" width="640">
