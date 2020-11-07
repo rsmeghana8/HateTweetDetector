@@ -8,4 +8,4 @@ https://www.kaggle.com/arkhoshghalb/twitter-sentiment-analysis-hatred-speech
 To run the app in streamlit 
 ``` streamlit run App.py```
 
-![](screenshot.jpg)
+![](screenshot.jpg =640X480)
